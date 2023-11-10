@@ -1,0 +1,1767 @@
+[
+    {
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDM5MzY3NTM5MCIsInMiOiJOSEVXNWhwMjdoR21vb0Z6OHY3eXVRIn0.bMUAsAhe2w5-7r753Pu8QrK9USZLauZHej_L-Q-Wnl0",
+        "company": {
+            "display_name": "The Waldinger Corporation",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_max": 65567.01,
+        "description": "Description The Waldinger Corporation, a growing Mechanical, Electrical, Plumbing, and Sheet Metal industry leader, is adding a Software Engineer to our team Reporting to the Assistant Manager - Software Engineering, you will work on a team of Software Engineers. This position will work with business users to strategize ideas and determine requirements to produce beneficial software. Software Engineers will coordinate with other IT teams to design systems to meet project specifications. You wil…",
+        "longitude": -93.60019,
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "South Des Moines"
+            ],
+            "display_name": "South Des Moines, Polk County"
+        },
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT Jobs",
+            "tag": "it-jobs"
+        },
+        "salary_min": 65567.01,
+        "redirect_url": "https://www.adzuna.com/land/ad/4393675390?se=NHEW5hp27hGmooFz8v7yuQ&utm_medium=api&utm_source=dba38e95&v=AE72695825DFB6E2BE650B5A39F965445CC20EEA",
+        "id": "4393675390",
+        "title": "Software Engineer",
+        "created": "2023-10-25T18:21:30Z",
+        "latitude": 41.59295,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "daysSincePosted": 3,
+        "status": "none"
+    },
+    {
+        "id": "4393707379",
+        "title": "Software Engineer",
+        "created": "2023-10-25T18:27:36Z",
+        "latitude": 41.676121,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT Jobs",
+            "tag": "it-jobs"
+        },
+        "salary_min": 104198.23,
+        "redirect_url": "https://www.adzuna.com/land/ad/4393707379?se=NHEW5hp27hGmooFz8v7yuQ&utm_medium=api&utm_source=dba38e95&v=8709D0858F2591349D72EDF4A231C1FA6F0DAF0E",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Collabera"
+        },
+        "salary_max": 104198.23,
+        "description": "Description Home Search Jobs Job Description Software Engineer Contract: Johnston, Iowa, US Salary: $78.00 Per Hour Job Code: 340873 End Date: 2023-11-19 Days Left: 24 days, 3 hours left Apply Must haves: Experience in Javascript, especially Typescript (7 years). Experience with AWS services and cloud development (5 years). Experience in software development using Java. (5 years). Experience working in an Agile Environment (4 years). Experience mentoring junior software engineers on the team. E…",
+        "longitude": -93.723352,
+        "location": {
+            "display_name": "Johnston, Polk County",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "Johnston"
+            ]
+        },
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTkhFVzVocDI3aEdtb29Gejh2N3l1USIsImkiOiI0MzkzNzA3Mzc5In0.1AOvLtuAW9Rl4lYcnbV15EnzHZfIlB-oBkOUzB4NiI0",
+        "daysSincePosted": 3,
+        "status": "none"
+    },
+    {
+        "location": {
+            "display_name": "South Des Moines, Polk County",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "South Des Moines"
+            ]
+        },
+        "description": "It's fun to work in a company where people truly BELIEVE in what they're doing We're committed to bringing passion and customer focus to the business. The Role Proofpoint’s Security Products Group is looking for an engineer to work on designing, building, and deploying our large-scale threat detection pipeline. Our team develops the next generation distributed pipeline to detect, analyze and produce intelligence for the latest threats from sophisticated cyber threat actors. Our detection servic…",
+        "longitude": -93.60019,
+        "salary_max": 110945.1,
+        "company": {
+            "display_name": "Proofpoint",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTkhFVzVocDI3aEdtb29Gejh2N3l1USIsImkiOiI0MzkyMTI2OTg0In0.Ad8m84idYD7B-8f8UMPAphYply4uZFlfr5jwIHIS8W8",
+        "salary_is_predicted": "1",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "created": "2023-10-25T02:30:35Z",
+        "latitude": 41.59295,
+        "id": "4392126984",
+        "title": "Software Engineer",
+        "redirect_url": "https://www.adzuna.com/land/ad/4392126984?se=NHEW5hp27hGmooFz8v7yuQ&utm_medium=api&utm_source=dba38e95&v=352BF1A9B09DA9202FF7C0C983E9849EB196D358",
+        "salary_min": 110945.1,
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT Jobs",
+            "tag": "it-jobs"
+        },
+        "daysSincePosted": 4,
+        "status": "none"
+    },
+    {
+        "description": "JOB DESCRIPTION Day to Day: Skiltrek is looking for a Remote Software Engineer in Des Moines, IA. This Software Engineer will be within the infrastructure space on the Supply Chain team. They will partner with 2 other team members to maintain and update various applications. These applications will be a part of the warehouse, supply chain, and business lines. This individual will also be required to be on call for 7 days, for 24 hours a day, once every 3 weeks. MINIMUM REQUIREMENTS Must Have: •…",
+        "longitude": -93.743106,
+        "location": {
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "West Des Moines"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "West Des Moines, Polk County"
+        },
+        "company": {
+            "display_name": "Skiltrek",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_max": 84616.16,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTkhFVzVocDI3aEdtb29Gejh2N3l1USIsImkiOiI0MzkzNzA3NTk5In0.Of_EzvGpoyNU6dOvgh0CbtJL5wenZraFP8jV7iFLanE",
+        "salary_is_predicted": "1",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "4393707599",
+        "title": "SR. SOFTWARE ENGINEER",
+        "latitude": 41.572796,
+        "created": "2023-10-25T18:27:39Z",
+        "category": {
+            "label": "IT Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs"
+        },
+        "salary_min": 84616.16,
+        "redirect_url": "https://www.adzuna.com/land/ad/4393707599?se=NHEW5hp27hGmooFz8v7yuQ&utm_medium=api&utm_source=dba38e95&v=4E88C4C8FBC21F761BC7B04E1E4324752E1A7C9A",
+        "daysSincePosted": 3,
+        "status": "none"
+    },
+    {
+        "redirect_url": "https://www.adzuna.com/land/ad/4392126790?se=NHEW5hp27hGmooFz8v7yuQ&utm_medium=api&utm_source=dba38e95&v=F1CB399DFE86712ABE93018468DB2E729885892D",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT Jobs",
+            "tag": "it-jobs"
+        },
+        "salary_min": 122570.91,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "created": "2023-10-25T02:30:32Z",
+        "latitude": 41.59295,
+        "id": "4392126790",
+        "title": "Principal Software Engineer",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDM5MjEyNjc5MCIsInMiOiJOSEVXNWhwMjdoR21vb0Z6OHY3eXVRIn0.5pb8Kk9AAxcmRyufvxXM2btERITO7MkUpkQL57g2djY",
+        "salary_is_predicted": "1",
+        "location": {
+            "display_name": "South Des Moines, Polk County",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "South Des Moines"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "longitude": -93.60019,
+        "description": "Enterprise Technology plays a critical part in shaping the future of mobility. If you’re looking for the chance to leverage advanced technology to redefine the transportation landscape, enhance the customer experience and improve people’s lives, this is the opportunity for you. Join us and challenge your IT expertise and analytical skills to help create vehicles that are as smart as you are. We are a seeking a Principal Software Engineer to play a key role in designing and developing ford.com a…",
+        "salary_max": 122570.91,
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Ford Motor Company"
+        },
+        "daysSincePosted": 4,
+        "status": "none"
+    },
+    {
+        "location": {
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "South Des Moines"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "South Des Moines, Polk County"
+        },
+        "longitude": -93.60019,
+        "description": "Company : Highmark Inc. Job Description : JOB SUMMARY Remote role, travel will be required. If you reside in the Pittsburgh area, you will be asked to come in, per the supervisor's discretion. The job is an integral member of an agile software engineer team responsible for building scalable software applications across all digital channels to serve our customers. The position will be responsible for taking an enterprise-wide, architectural view of the solutions and the technical execution of pr…",
+        "salary_max": 118777.25,
+        "company": {
+            "display_name": "Highmark Health",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDM5MjEyNjM1MyIsInMiOiJOSEVXNWhwMjdoR21vb0Z6OHY3eXVRIn0.fwlAy-NWVfbMOhUapTDCx-2o99FWYoUnAfGS7P0m7xI",
+        "salary_is_predicted": "1",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 41.59295,
+        "created": "2023-10-25T02:30:26Z",
+        "title": "Principal Software Engineer",
+        "id": "4392126353",
+        "redirect_url": "https://www.adzuna.com/land/ad/4392126353?se=NHEW5hp27hGmooFz8v7yuQ&utm_medium=api&utm_source=dba38e95&v=AC4D1690082F32A88608D51564C8505FD375BC80",
+        "salary_min": 118777.25,
+        "category": {
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT Jobs"
+        },
+        "daysSincePosted": 4,
+        "status": "none"
+    },
+    {
+        "salary_max": 64477.03,
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Keylent Inc"
+        },
+        "location": {
+            "display_name": "South Des Moines, Polk County",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "South Des Moines"
+            ]
+        },
+        "longitude": -93.60019,
+        "description": "Sr. Software Engineer TECHM-JOB-24261 Location: [DES MOINES] Skill: Dell EMC Backup admin Advanced Description Backup OEM Rubrik L3 (U3) [8 10 Y] (Hyderabad) Job Description ¿ Design, implement, manage and maintain Rubrik backup solutions. ¿ Configuring, Scheduling and taking manual backup for Various OS. ¿ Knowledge of basic networking principles including routing, subnet and firewalls. ¿ Knowledge of basics of VSS snapshot and VMware. ¿ Performing restores on demand. ¿ Performing Instant VM r…",
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTkhFVzVocDI3aEdtb29Gejh2N3l1USIsImkiOiI0MzkzNjg1ODM5In0.HR2KBEWwmbUslYmDdmpasoxwTcQ20K4QvNBkvjX60IY",
+        "latitude": 41.59295,
+        "created": "2023-10-25T18:23:11Z",
+        "title": "Sr. Software Engineer",
+        "id": "4393685839",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/land/ad/4393685839?se=NHEW5hp27hGmooFz8v7yuQ&utm_medium=api&utm_source=dba38e95&v=B207372263868B260CC108ED16EEC3A075B65A8C",
+        "salary_min": 64477.03,
+        "category": {
+            "label": "IT Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs"
+        },
+        "daysSincePosted": 3,
+        "status": "none"
+    },
+    {
+        "latitude": 41.59295,
+        "id": "4392120511",
+        "salary_min": 100428.03,
+        "salary_max": 100428.03,
+        "company": {
+            "display_name": "Principal Financial Group",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "location": {
+            "display_name": "South Des Moines, Polk County",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "South Des Moines"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "longitude": -93.60019,
+        "created": "2023-10-25T02:28:57Z",
+        "title": "Experienced Software Engineer",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/land/ad/4392120511?se=NHEW5hp27hGmooFz8v7yuQ&utm_medium=api&utm_source=dba38e95&v=FC621129455995D743AF6996FF74EF562DD1B821",
+        "contract_type": "permanent",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT Jobs",
+            "tag": "it-jobs"
+        },
+        "description": "What You'll Do As an Experienced Software Engineer at Principal, you’ll work with engineers to help lead our efforts to continue modernizing our technology and to enable great solutions for our customers Our Technology Community has multiple openings in different lines of business such as Principal Asset Management, Retirement & Income Solutions, US Insurance Solutions and SCBU Enablement. In this role you’ll join our community of over 4,000 engineers and help to build things people love. Our g…",
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDM5MjEyMDUxMSIsInMiOiJOSEVXNWhwMjdoR21vb0Z6OHY3eXVRIn0.7dGSey4HedhtLGaNQddNj29gtj7RJ36mKWqTrTQGS-A",
+        "daysSincePosted": 4,
+        "status": "none"
+    },
+    {
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDM5MjEyNTUyOSIsInMiOiJOSEVXNWhwMjdoR21vb0Z6OHY3eXVRIn0.0DnK1JeBecMjiDo-1EGnTe1o93w5DHPZEFabsROzIWQ",
+        "description": "Job Number 23131744 Job Category Information Technology Location Marriott International HQ, 7750 Wisconsin Avenue, Bethesda, Maryland, United States Schedule Full-Time Located Remotely? Y Relocation? N Position Type Management JOB SUMMARY Develops applications, scripts, and pipelines to enable ease of use of the services provided by the Application Security program. Integrates existing tools and services with applications used across the enterprise. Responsible for enhancing the ecosystem with …",
+        "contract_time": "full_time",
+        "category": {
+            "tag": "it-jobs",
+            "label": "IT Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "redirect_url": "https://www.adzuna.com/land/ad/4392125529?se=NHEW5hp27hGmooFz8v7yuQ&utm_medium=api&utm_source=dba38e95&v=AE5C6C599A9066E53A0B4C006130EA3569583BCA",
+        "title": "Cybersecurity Software Engineer",
+        "created": "2023-10-25T02:30:12Z",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "display_name": "Marriott",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_max": 88513.23,
+        "longitude": -93.60019,
+        "location": {
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "South Des Moines"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "South Des Moines, Polk County"
+        },
+        "salary_min": 88513.23,
+        "id": "4392125529",
+        "latitude": 41.59295,
+        "daysSincePosted": 4,
+        "status": "none"
+    },
+    {
+        "redirect_url": "https://www.adzuna.com/land/ad/4392126294?se=NHEW5hp27hGmooFz8v7yuQ&utm_medium=api&utm_source=dba38e95&v=AA0D7990DC5BD13206A7E786152B33776421EC67",
+        "category": {
+            "tag": "it-jobs",
+            "label": "IT Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_min": 118860.42,
+        "created": "2023-10-25T02:30:25Z",
+        "latitude": 41.59295,
+        "id": "4392126294",
+        "title": "Sr. Software Engineer",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDM5MjEyNjI5NCIsInMiOiJOSEVXNWhwMjdoR21vb0Z6OHY3eXVRIn0.MZ1N1srho3t28mw5BU44KqJ7vnLUw0fY3vfXdTZRfXk",
+        "salary_max": 118860.42,
+        "company": {
+            "display_name": "Oracle",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "location": {
+            "display_name": "South Des Moines, Polk County",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "South Des Moines"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "description": "Job Description Oracle’s Health organization is building healthcare services that operate at high scale in the cloud and interface with healthcare applications. Our customers run their applications on our cloud container platform, and we enable them to create exciting new healthcare applications through deployment automation and helpful deployment tools. We build, monitor and support cloud infrastructure for Oracle Health teams to enable the creation of new healthcare services. We are growing f…",
+        "longitude": -93.60019,
+        "daysSincePosted": 4,
+        "status": "none"
+    },
+    {
+        "company": {
+            "display_name": "American Enterprise Group",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_max": 75654.74,
+        "description": "JOB SUMMARY Wellabe is looking for a Software Engineer 3 to join our team. Responsibilities include creating and modifying complex programs and identifying and solving problems by designing, analyzing, testing, and troubleshooting programs throughout the application development process. Position level will be determined based on skills, knowledge and experience. ESSENTIAL FUNCTIONS Reasonable accommodations may be made to enable individuals with disabilities to perform these essential functions…",
+        "longitude": -93.60019,
+        "location": {
+            "display_name": "South Des Moines, Polk County",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "South Des Moines"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDM5MzcwODM3NCIsInMiOiJOSEVXNWhwMjdoR21vb0Z6OHY3eXVRIn0.YWKx3P5v3jbsjQgECelqyK-441lIGA_ABuvGa9i_DGw",
+        "title": "Software Engineer 3- Hybrid",
+        "id": "4393708374",
+        "latitude": 41.59295,
+        "created": "2023-10-25T18:27:46Z",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 75654.74,
+        "category": {
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT Jobs"
+        },
+        "redirect_url": "https://www.adzuna.com/land/ad/4393708374?se=NHEW5hp27hGmooFz8v7yuQ&utm_medium=api&utm_source=dba38e95&v=39B1C643CDFACDE2171F68451FA92AEE8B895134",
+        "daysSincePosted": 3,
+        "status": "none"
+    },
+    {
+        "redirect_url": "https://www.adzuna.com/land/ad/4392112665?se=NHEW5hp27hGmooFz8v7yuQ&utm_medium=api&utm_source=dba38e95&v=21C1BEDAA85F86511FE5552150E93B3C93362EF8",
+        "category": {
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT Jobs"
+        },
+        "salary_min": 95832.02,
+        "created": "2023-10-25T02:27:18Z",
+        "latitude": 41.59295,
+        "id": "4392112665",
+        "title": "Associate Production Software Engineer",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTkhFVzVocDI3aEdtb29Gejh2N3l1USIsImkiOiI0MzkyMTEyNjY1In0.6ik_Gu-F3P7wS1peuO3YuNsCoXmVSmHtjNCdOTttjho",
+        "salary_max": 95832.02,
+        "company": {
+            "display_name": "Oracle",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "South Des Moines"
+            ],
+            "display_name": "South Des Moines, Polk County"
+        },
+        "longitude": -93.60019,
+        "description": "Job Description Building off our Cloud momentum, Oracle has formed a new organization - Oracle Health Applications & Infrastructure (OHAI). This team will focus on product development and product strategy for Oracle Health, while building out a complete platform supporting modernized, automated healthcare. This is a net new line of business, constructed with an entrepreneurial spirit that promotes an energetic and creative environment. We are unencumbered and will need your contribution to make…",
+        "daysSincePosted": 4,
+        "status": "none"
+    },
+    {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 41.59295,
+        "created": "2023-10-25T02:29:24Z",
+        "title": "Software Engineer, Machine Learning",
+        "id": "4392121975",
+        "redirect_url": "https://www.adzuna.com/land/ad/4392121975?se=NHEW5hp27hGmooFz8v7yuQ&utm_medium=api&utm_source=dba38e95&v=4071DC0E35125975B121BFB530FFA3A4F9BE0630",
+        "category": {
+            "label": "IT Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs"
+        },
+        "salary_min": 103395.05,
+        "location": {
+            "display_name": "South Des Moines, Polk County",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "South Des Moines"
+            ]
+        },
+        "longitude": -93.60019,
+        "description": "Summary: Meta is embarking on the most transformative change to its business and technology in company history, and our Machine Learning Engineers are at the forefront of this evolution. By leading crucial projects and initiatives that have never been done before, you have an opportunity to help us advance the way people connect around the world. The ideal candidate will have industry experience working on a range of recommendation, classification, and optimization problems. You will bring the …",
+        "salary_max": 103395.05,
+        "company": {
+            "display_name": "Meta Inc",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDM5MjEyMTk3NSIsInMiOiJOSEVXNWhwMjdoR21vb0Z6OHY3eXVRIn0._wwMC4i3mU8_spBlWCHjv9IAibkgILtqhg4YcmX8FK4",
+        "salary_is_predicted": "1",
+        "daysSincePosted": 4,
+        "status": "none"
+    },
+    {
+        "salary_max": 64833.48,
+        "company": {
+            "display_name": "Grinnell Mutual Reinsurance Company",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "location": {
+            "display_name": "South Des Moines, Polk County",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "South Des Moines"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "longitude": -93.60019,
+        "description": "Overview Software Engineers are responsible for engineering software and/or complex integrations of existing software using current technologies to support the business objectives of Grinnell Mutual Reinsurance Company and their customers. Serves as a member of a cross functional Agile Software Development Team, completing any/all tasks to ensure team success. This position qualifies for our flexible workplace options. Work at our Grinnell, Iowa, headquarters or from a home office in any of the…",
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDM5NDY3MDI3NyIsInMiOiJOSEVXNWhwMjdoR21vb0Z6OHY3eXVRIn0.LFOPppV8flnlYxHPaR8TZ9hRsp5VOVA4o3pZZj_7kOE",
+        "latitude": 41.59295,
+        "created": "2023-10-26T02:40:12Z",
+        "title": "SOFTWARE ENGINEER - DATA MANAGEMENT",
+        "id": "4394670277",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/land/ad/4394670277?se=NHEW5hp27hGmooFz8v7yuQ&utm_medium=api&utm_source=dba38e95&v=510278F4939F74BC914129FF413F22849E545D6F",
+        "category": {
+            "label": "IT Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs"
+        },
+        "salary_min": 64833.48,
+        "daysSincePosted": 3,
+        "status": "none"
+    },
+    {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "4392104212",
+        "title": "Sr. Software Engineer, Data",
+        "latitude": 41.59295,
+        "created": "2023-10-25T02:25:32Z",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT Jobs",
+            "tag": "it-jobs"
+        },
+        "salary_min": 100332.2,
+        "redirect_url": "https://www.adzuna.com/land/ad/4392104212?se=NHEW5hp27hGmooFz8v7yuQ&utm_medium=api&utm_source=dba38e95&v=997308D2CF3AC8D959DE51E8B87823A5D9B6B9E5",
+        "longitude": -93.60019,
+        "description": "Everything we do at Sunrun is driven by a determination to transform the way we power our lives. We know that starts at the individual employee level. We strive to foster an environment you can thrive in through our commitment to diversity, inclusion and belonging. Overview We are looking for a Sr. Software Engineer with data experience. As an Sr. Software Engineer, you’ll help with technical direction for all grid services engineering solutions at Sunrun and will also lead the way in transform…",
+        "location": {
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "South Des Moines"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "South Des Moines, Polk County"
+        },
+        "company": {
+            "display_name": "Sunrun",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_max": 100332.2,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTkhFVzVocDI3aEdtb29Gejh2N3l1USIsImkiOiI0MzkyMTA0MjEyIn0.PEAUBg6Wi1W7-cTYqQWo7hpK2LUFw8VODVOn5nlpvDE",
+        "salary_is_predicted": "1",
+        "daysSincePosted": 4,
+        "status": "none"
+    },
+    {
+        "longitude": -93.60019,
+        "description": "NO CORP to CORP/ C2C Description: The Big Data Lead software engineer is responsible for owning and driving the technical innovation along with big data technologies. The individual is a subject matter expert technologist with strong Python experience and deep hands-on experience building data pipelines for the Hadoop platform as well as Google cloud. This person will be part of successful Big Data implementations for large data integration initiatives. The candidates for this role must be will…",
+        "location": {
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "South Des Moines"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "South Des Moines, Polk County"
+        },
+        "company": {
+            "display_name": "Skiltrek",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_max": 127146.43,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDM5MzcwNzYzMSIsInMiOiJOSEVXNWhwMjdoR21vb0Z6OHY3eXVRIn0.3HZupV4ujd34j2zB2vLaaUI0qJoCV__QnWku8txx6z8",
+        "salary_is_predicted": "1",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Lead Specialty Software Engineer",
+        "id": "4393707631",
+        "created": "2023-10-25T18:27:40Z",
+        "latitude": 41.59295,
+        "salary_min": 127146.43,
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT Jobs",
+            "tag": "it-jobs"
+        },
+        "redirect_url": "https://www.adzuna.com/land/ad/4393707631?se=NHEW5hp27hGmooFz8v7yuQ&utm_medium=api&utm_source=dba38e95&v=5205939191B317C9BBF65634A21A0CEC17018872",
+        "daysSincePosted": 3,
+        "status": "none"
+    },
+    {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDM5NzI3NTk0MyIsInMiOiJOSEVXNWhwMjdoR21vb0Z6OHY3eXVRIn0.SOJHC6-k7WgUWim73fcQi-iMqW5QyoIc58gRgHoUdk4",
+        "salary_is_predicted": "1",
+        "description": "Essential Duties and Responsibilities Provide technical leadership to geographically distributed Agile software development teams to deliver quality software with timeliness to meet complex business needs. Work effectively in a highly collaborative environment consisting of Product Managers, Product Owners, Project Managers, Architects, Operations, Developers and QA teams to develop quality software meeting the biz needs. Adhere to existing agile software development policies and procedures, pa…",
+        "longitude": -93.60019,
+        "location": {
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "South Des Moines"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "South Des Moines, Polk County"
+        },
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Wolters Kluwer"
+        },
+        "salary_max": 142063.7,
+        "category": {
+            "label": "IT Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs"
+        },
+        "salary_min": 142063.7,
+        "redirect_url": "https://www.adzuna.com/land/ad/4397275943?se=NHEW5hp27hGmooFz8v7yuQ&utm_medium=api&utm_source=dba38e95&v=4C6D23AF7304FEA05A7460ECF8ECF6B9D7721796",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Lead Product Software Engineer",
+        "id": "4397275943",
+        "created": "2023-10-27T02:25:53Z",
+        "latitude": 41.59295,
+        "daysSincePosted": 2,
+        "status": "none"
+    },
+    {
+        "salary_min": 82031.25,
+        "category": {
+            "label": "IT Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs"
+        },
+        "redirect_url": "https://www.adzuna.com/land/ad/4392122649?se=NHEW5hp27hGmooFz8v7yuQ&utm_medium=api&utm_source=dba38e95&v=8E56029CC0EDFEFAFA719F704FCDFC3BE6442BA0",
+        "id": "4392122649",
+        "title": "Lead Software Engineer- DevOps & Infrastructure",
+        "created": "2023-10-25T02:29:35Z",
+        "latitude": 41.59295,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDM5MjEyMjY0OSIsInMiOiJOSEVXNWhwMjdoR21vb0Z6OHY3eXVRIn0.W0NEoLCJx6mMbGNXNwtOh_GStmT6rKRb7JPqPUWIy6w",
+        "company": {
+            "display_name": "Cornerstone OnDemand",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_max": 82031.25,
+        "description": "We are looking for the “best of the best” in the software engineering industry to support our ever-expanding infrastructure base across multiple geographically distributed datacenters in the cloud around the world. Sound exciting? In this role, you will be part of the Cloud Engineering (Infrastructure and DevOps) team responsible for all of Cornerstone’s production systems and services. Goal of the Cloud Engineering team is to achieve highest levels of efficiency and productivity using various …",
+        "longitude": -93.60019,
+        "location": {
+            "display_name": "South Des Moines, Polk County",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "South Des Moines"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "daysSincePosted": 4,
+        "status": "none"
+    },
+    {
+        "salary_max": 99255.45,
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Navient"
+        },
+        "location": {
+            "display_name": "South Des Moines, Polk County",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "South Des Moines"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "longitude": -93.60019,
+        "description": "Earnest’s mission is to make higher education accessible and affordable for everyone. We empower past, present, and soon-to-be students to maximize their financial futures through thoughtful guidance and impactful products. We build tools that help people feel in control of their financial future, including: Private student loans - low rates, people-first service, and flexible payments. Student loan refinancing - break free from high interest rates or monthly payments. Scholarships - access to …",
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTkhFVzVocDI3aEdtb29Gejh2N3l1USIsImkiOiI0MzkyMTI0Njg3In0.OZZ2gctwEXz-OpWH3wS6qYunEepekN71RpNhL-SSYOM",
+        "latitude": 41.59295,
+        "created": "2023-10-25T02:29:55Z",
+        "id": "4392124687",
+        "title": "Lead Software Engineer - Remote, US",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/land/ad/4392124687?se=NHEW5hp27hGmooFz8v7yuQ&utm_medium=api&utm_source=dba38e95&v=123A15303B8A6EF1510276FB2C2E557084CC835F",
+        "salary_min": 99255.45,
+        "category": {
+            "label": "Engineering Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "engineering-jobs"
+        },
+        "daysSincePosted": 4,
+        "status": "none"
+    },
+    {
+        "location": {
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "South Des Moines"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "South Des Moines, Polk County"
+        },
+        "description": "Build something new with a world-class team. At Genesys, we allow our employees to make their mark by entrusting them to make decisions and do what they've been hired to do: their very best. Your potential is waiting; why are you? Build something new with a world-class team. At Genesys, we allow our employees to make their mark by entrusting them to make decisions and do what they've been hired to do: their very best. Your potential is waiting; why are you? We are seeking a highly skilled and e…",
+        "longitude": -93.60019,
+        "salary_max": 80003.79,
+        "company": {
+            "display_name": "Genesys Cloud Services, Inc.",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTkhFVzVocDI3aEdtb29Gejh2N3l1USIsImkiOiI0Mzk0NjUxMjg3In0.T0PSD_UD2zuzOBdmHPUp-VHUXysZCWfJFQsexlR3PBk",
+        "salary_is_predicted": "1",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 41.59295,
+        "created": "2023-10-26T02:37:34Z",
+        "id": "4394651287",
+        "title": "Sr. Software Engineer, Data and Analytics",
+        "redirect_url": "https://www.adzuna.com/land/ad/4394651287?se=NHEW5hp27hGmooFz8v7yuQ&utm_medium=api&utm_source=dba38e95&v=1427333ACC952E30CF2E119CD3A9954154C45E41",
+        "category": {
+            "tag": "engineering-jobs",
+            "label": "Engineering Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_min": 80003.79,
+        "daysSincePosted": 3,
+        "status": "none"
+    },
+    {
+        "salary_min": 96829.05,
+        "redirect_url": "https://www.adzuna.com/land/ad/4392120991?se=UB8V0Bx27hGwwgCUBUhL7w&utm_medium=api&utm_source=dba38e95&v=6E75DEE7625FA89AEC989750142C2AD41A56004F",
+        "salary_is_predicted": "1",
+        "location": {
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "South Des Moines"
+            ],
+            "display_name": "South Des Moines, Polk County",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": {
+            "tag": "it-jobs",
+            "label": "IT Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "4392120991",
+        "longitude": -93.60019,
+        "salary_max": 96829.05,
+        "company": {
+            "display_name": "Travelers Insurance",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2023-10-25T02:29:07Z",
+        "description": "Who Are We? Taking care of our customers, our communities and each other. That’s the Travelers Promise. By honoring this commitment, we have maintained our reputation as one of the best property casualty insurers in the industry for over 160 years. Join us to discover a culture that is rooted in innovation and thrives on collaboration. Imagine loving what you do and where you do it. Job Category Technology Compensation Overview The annual base salary range provided for this position is a nation…",
+        "title": "Software Engineer (ServiceNow - FSO, Flow Designer and JavaScript)",
+        "latitude": 41.59295,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUI4VjBCeDI3aEd3d2dDVUJVaEw3dyIsImkiOiI0MzkyMTIwOTkxIn0.7ZDGYVXQM4FVDCaIr-UbUUpWc43YyU6rsNqivqA_qcM",
+        "daysSincePosted": 4,
+        "status": "none"
+    },
+    {
+        "salary_min": 69130.36,
+        "redirect_url": "https://www.adzuna.com/details/4387824550?utm_medium=api&utm_source=dba38e95",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "Des Moines"
+            ],
+            "display_name": "Des Moines, Polk County"
+        },
+        "salary_is_predicted": "1",
+        "longitude": -93.63194,
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT Jobs"
+        },
+        "id": "4387824550",
+        "salary_max": 69130.36,
+        "company": {
+            "display_name": "Ladco Inc.",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2023-10-23T05:47:44Z",
+        "description": "The Waldinger Corporation, a growing Mechanical, Electrical, Plumbing, and Sheet Metal industry leader, is adding a Software Engineer to our team Reporting to the Assistant Manager - Software Engineering, you will work on a team of Software Engineers. This position will work with business users to strategize ideas and determine requirements to produce beneficial software. Software Engineers will coordinate with other IT teams to design systems to meet project specifications. You will: Analyze p…",
+        "title": "Software Engineer",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 41.60495,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDM4NzgyNDU1MCIsInMiOiJVQjhWMEJ4MjdoR3d3Z0NVQlVoTDd3In0.1AWfSvEBRNMrDLMFRoD-gThjMu16xPyeh_bOsVaMSiA",
+        "daysSincePosted": 5,
+        "status": "none"
+    },
+    {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 41.632963,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUI4VjBCeDI3aEd3d2dDVUJVaEw3dyIsImkiOiI0MzMyNjcwNTc5In0.bUnCGH3V6PpBRSqleaQjY_ZESUM1UzhTCkOuTmJmKeI",
+        "description": "There are over 7 billion people on this planet. And by 2050, there will be 2 billion more many moving into urban centers at an unprecedented rate. Making sure there is enough food, fiber and infrastructure for our rapidly growing world is what we're all about at John Deere. And it's why we're investing in our people and our technology like never before Here the world's brightest minds are tackling the world's biggest challenges. If you believe one person can make the world a better place, we'll…",
+        "title": "Software Engineer",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "John Deere"
+        },
+        "salary_max": 70565.8,
+        "created": "2023-09-25T13:31:59Z",
+        "id": "4332670579",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT Jobs"
+        },
+        "longitude": -93.737316,
+        "salary_is_predicted": "1",
+        "redirect_url": "https://www.adzuna.com/details/4332670579?utm_medium=api&utm_source=dba38e95",
+        "salary_min": 70565.8,
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "Urbandale"
+            ],
+            "display_name": "Urbandale, Polk County"
+        },
+        "daysSincePosted": 33,
+        "status": "none"
+    },
+    {
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Engineering Jobs",
+            "tag": "engineering-jobs"
+        },
+        "id": "4269392182",
+        "longitude": -93.63911,
+        "redirect_url": "https://www.adzuna.com/details/4269392182?utm_medium=api&utm_source=dba38e95",
+        "salary_min": 116494.78,
+        "salary_is_predicted": "1",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "Des Moines"
+            ],
+            "display_name": "Des Moines, Polk County"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUI4VjBCeDI3aEd3d2dDVUJVaEw3dyIsImkiOiI0MjY5MzkyMTgyIn0.jvnofBgZE7-JfAB2K231R60ylbLSjOW_0SQEBC1w4mw",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 41.58345,
+        "title": "Software Engineer",
+        "description": "Job Description Designs, develops, tests, and debugs software tools, flows, PDK design components, and/or methodologies used in design automation and by teams in the design of hardware products, process design, or manufacturing. Responsibilities include capturing user stories/requirements, writing both functional and test code, automating build and deployment, and/or performing unit, integration, and endtoend testing of the software tools. DesignEnablement Qualifications Minimum qualifications …",
+        "created": "2023-08-20T14:27:54Z",
+        "company": {
+            "display_name": "Intel",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_max": 116494.78,
+        "daysSincePosted": 69,
+        "status": "none"
+    },
+    {
+        "salary_min": 84831,
+        "redirect_url": "https://www.adzuna.com/land/ad/4393674153?se=UB8V0Bx27hGwwgCUBUhL7w&utm_medium=api&utm_source=dba38e95&v=4133AF4956FAE89CFA2124BFE2CE1911D7FCC501",
+        "salary_is_predicted": "1",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "West Des Moines, Polk County",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "West Des Moines"
+            ]
+        },
+        "contract_time": "full_time",
+        "salary_max": 84831,
+        "contract_type": "permanent",
+        "longitude": -93.743106,
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT Jobs",
+            "tag": "it-jobs"
+        },
+        "id": "4393674153",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUI4VjBCeDI3aEd3d2dDVUJVaEw3dyIsImkiOiI0MzkzNjc0MTUzIn0.nwFjqzGErecWUCI6MjVtVB9RGBYQ0WgPtjqZfPxjLKQ",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 41.572796,
+        "title": "Software Engineer - HTML, Typescript / Javascript, CSS, ASP.NET",
+        "description": "Software Engineer - HTML, Typescript / Javascript, CSS, ASP.NET Do you have proven passion for software engineering, customer focus, and teamwork with the desire to drive and support strategic initiatives that directly impact client, agent, and employee experiences? Are you self-driven and thrive in a fast paced, results oriented environment? Do you have experience with HTML, Typescript / JavaScript, CSS, ASP.NET MVC/Core, Razor Pages, and other full-stack related technologies? If so, this Soft…",
+        "created": "2023-10-25T18:20:47Z",
+        "company": {
+            "display_name": "FBL Financial",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "daysSincePosted": 3,
+        "status": "none"
+    },
+    {
+        "salary_is_predicted": "1",
+        "redirect_url": "https://www.adzuna.com/details/4393129880?utm_medium=api&utm_source=dba38e95",
+        "salary_min": 60310.03,
+        "location": {
+            "display_name": "West Des Moines, Polk County",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "West Des Moines"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "contract_time": "full_time",
+        "salary_max": 60310.03,
+        "contract_type": "permanent",
+        "longitude": -93.733354,
+        "id": "4393129880",
+        "category": {
+            "tag": "it-jobs",
+            "label": "IT Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "latitude": 41.550736,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUI4VjBCeDI3aEd3d2dDVUJVaEw3dyIsImkiOiI0MzkzMTI5ODgwIn0.0SC7fw1eVnUo4yqOWMGzjOwEvfzGtIOhLrsEckfOvAs",
+        "description": "Insight Global is hiring for a Jr. Software Engineer. This position is a permanent role that has the ability to be 100% remote. Our client is looking for this candidate to help create the architectural design as well as develop new products working in an agile environment. This candidate will be expected to find solutions based on current business needs a proper integration with the current applications that are in place. This team has a strong work life balance and offers the ability to grow w…",
+        "title": "JR. Software Engineer",
+        "company": {
+            "display_name": "Insight Global",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2023-10-25T13:24:51Z",
+        "daysSincePosted": 3,
+        "status": "none"
+    },
+    {
+        "title": "Cloud Software Engineer",
+        "description": "Job Description Do you want to innovate and create an industry-leading developer cloud? The Intel cloud team within the Software and Advanced Technology Group (SATG) is developing and shaping the way people think about computing by focusing on developers, ecosystem partners, and academia. We are redefining the space with cutting-edge cloud services which leverage our portfolio of industry-leading SW and HW. Join us if you want to drive the business success of the world's most innovative develop…",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUI4VjBCeDI3aEd3d2dDVUJVaEw3dyIsImkiOiI0MzI4MjIyMTMyIn0.0Nm5wXilCpQ3ExCHqh-7tI1KxROVN8L_qwboQgI4TTs",
+        "latitude": 41.58345,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "created": "2023-09-22T15:04:01Z",
+        "company": {
+            "display_name": "Intel",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_max": 166018.5,
+        "id": "4328222132",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Engineering Jobs",
+            "tag": "engineering-jobs"
+        },
+        "longitude": -93.63911,
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "Des Moines"
+            ],
+            "display_name": "Des Moines, Polk County"
+        },
+        "redirect_url": "https://www.adzuna.com/details/4328222132?utm_medium=api&utm_source=dba38e95",
+        "salary_min": 166018.5,
+        "salary_is_predicted": "1",
+        "daysSincePosted": 36,
+        "status": "none"
+    },
+    {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 41.589,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDM4MzE2NzkwMyIsInMiOiJVQjhWMEJ4MjdoR3d3Z0NVQlVoTDd3In0.gIGtJ3t14eK6dmnUvDm8hDBG98-jLsMzW0Wmzsh3mlc",
+        "description": "What You'll Do We’re looking for a Sr Software Engineer to join our WSRS technology team. In this role, you’ll be a key player in strategically shaping our technological future from innovative customer experiences to robust core systems. We want your expertise in building enterprise grade systems with modern architecture and practices like AWS. Forge Enterprise AWS Expertise: Elevate your AWS skills to an enterprise-grade level, setting new standards for excellence. Strategic Engineering Proces…",
+        "title": "Sr Software Engineer",
+        "company": {
+            "display_name": "Principal Financial Group",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2023-10-20T09:52:32Z",
+        "longitude": -93.6151,
+        "id": "4383167903",
+        "category": {
+            "tag": "it-jobs",
+            "label": "IT Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "contract_type": "permanent",
+        "salary_max": 128798.88,
+        "redirect_url": "https://www.adzuna.com/details/4383167903?utm_medium=api&utm_source=dba38e95",
+        "salary_min": 128798.88,
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "Des Moines"
+            ],
+            "display_name": "Des Moines, Polk County"
+        },
+        "salary_is_predicted": "1",
+        "daysSincePosted": 8,
+        "status": "none"
+    },
+    {
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Pacific Northwest National Laboratory"
+        },
+        "salary_max": 99324.86,
+        "created": "2023-10-28T15:07:03Z",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 41.58345,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUI4VjBCeDI3aEd3d2dDVUJVaEw3dyIsImkiOiI0NDAwMTczNjEwIn0.7N7SRLG1-558dvD578ggftlKBmOlaeA_pC0x5AeekOY",
+        "description": "Overview PNNL is combining profound domain expertise and creative integration of advanced hardware and software to deliver computational solutions that address complex data and analytic challenges. Working in multidisciplinary teams, PNNL connects research and engineering to operations, providing the tools necessary to innovate quickly and field results faster. Our strengths are integrated across the data analytics lifecycle, from data acquisition and management to analysis and decision support…",
+        "title": "Software Engineer 3",
+        "redirect_url": "https://www.adzuna.com/details/4400173610?utm_medium=api&utm_source=dba38e95",
+        "salary_min": 99324.86,
+        "salary_is_predicted": "1",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Des Moines, Polk County",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "Des Moines"
+            ]
+        },
+        "category": {
+            "tag": "it-jobs",
+            "label": "IT Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "4400173610",
+        "longitude": -93.63911,
+        "daysSincePosted": 0,
+        "status": "none"
+    },
+    {
+        "location": {
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "Des Moines"
+            ],
+            "display_name": "Des Moines, Polk County",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.com/details/4400178084?utm_medium=api&utm_source=dba38e95",
+        "salary_min": 116256.49,
+        "salary_is_predicted": "1",
+        "category": {
+            "tag": "it-jobs",
+            "label": "IT Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "4400178084",
+        "longitude": -93.63911,
+        "salary_max": 116256.49,
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Robert Half"
+        },
+        "created": "2023-10-28T15:07:31Z",
+        "description": "Description C#.Net Developer / C# .NET Software Developer (Direct Hire) MULTIPLE POSITIONS HYBRID JOB where once you get up and running. DES MOINES OFFICE  This is a Permanent Direct Hire position with one of our client companies in the Greater Des Moines, IA area. Does work / life balance matter to you?? Take a look at this position We are in search of MULTIPLE C# .NET Software Developer positions WHY WOULD YOU WANT TO LOOK AT THIS POSITION: · Industry Leader · Awesome technical manager · Grea…",
+        "title": "Sr. Software Engineer",
+        "latitude": 41.58345,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDQwMDE3ODA4NCIsInMiOiJVQjhWMEJ4MjdoR3d3Z0NVQlVoTDd3In0.LKdNnCPMNVfkF1fo4HwFPKOQm7rx1FOwrTUENTtQ6Jw",
+        "daysSincePosted": 0,
+        "status": "none"
+    },
+    {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUI4VjBCeDI3aEd3d2dDVUJVaEw3dyIsImkiOiI0MzY1NTU5MzIxIn0.M7d5co1HuHHTubltm92V8QXbxZ0CMvzKxvMWXzkcBj8",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 41.60495,
+        "title": "Software Engineer 3- Hybrid",
+        "description": "JOB SUMMARY Wellabe is looking for a Software Engineer 3 to join our team. Responsibilities include creating and modifying complex programs and identifying and solving problems by designing, analyzing, testing, and troubleshooting programs throughout the application development process. Position level will be determined based on skills, knowledge and experience. ESSENTIAL FUNCTIONS Reasonable accommodations may be made to enable individuals with disabilities to perform these essential functions…",
+        "created": "2023-10-11T13:30:36Z",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "American Enterprise Group Inc"
+        },
+        "salary_max": 83932.21,
+        "longitude": -93.63194,
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT Jobs",
+            "tag": "it-jobs"
+        },
+        "id": "4365559321",
+        "salary_min": 83932.21,
+        "redirect_url": "https://www.adzuna.com/details/4365559321?utm_medium=api&utm_source=dba38e95",
+        "salary_is_predicted": "1",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Des Moines, Polk County",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "Des Moines"
+            ]
+        },
+        "daysSincePosted": 17,
+        "status": "none"
+    },
+    {
+        "id": "4393068345",
+        "category": {
+            "tag": "it-jobs",
+            "label": "IT Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": -93.733354,
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Insight Global"
+        },
+        "created": "2023-10-25T13:18:02Z",
+        "description": "Insight Global is hiring for a Mid-Level Software Engineer. This position is a permanent role that will be a hybrid role where you will have to go onsite 4 times a month in Des Moines, IA. Our client is looking for this candidate to help create the architectural design as well as develop new products working in an agile environment. This candidate will be expected to find solutions based on current business needs a proper integration with the current applications that are in place. This team ha…",
+        "title": ". NET/ React Software Engineer",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 41.550736,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDM5MzA2ODM0NSIsInMiOiJVQjhWMEJ4MjdoR3d3Z0NVQlVoTDd3In0.rOxtcb7p8eJiubwbpdI3gCvcaTfSGDeiddfrCJmlAi0",
+        "salary_min": 83297.71,
+        "redirect_url": "https://www.adzuna.com/details/4393068345?utm_medium=api&utm_source=dba38e95",
+        "salary_is_predicted": "1",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "West Des Moines, Polk County",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "West Des Moines"
+            ]
+        },
+        "salary_max": 83297.71,
+        "contract_type": "permanent",
+        "contract_time": "full_time",
+        "daysSincePosted": 3,
+        "status": "none"
+    },
+    {
+        "redirect_url": "https://www.adzuna.com/details/4329957148?utm_medium=api&utm_source=dba38e95",
+        "location": {
+            "display_name": "Des Moines, Polk County",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "Des Moines"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_min": 105180.05,
+        "salary_is_predicted": "1",
+        "id": "4329957148",
+        "category": {
+            "tag": "it-jobs",
+            "label": "IT Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": -93.63194,
+        "salary_max": 105180.05,
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "iBoss"
+        },
+        "created": "2023-09-23T13:09:43Z",
+        "description": "Company Overview iboss is a cloud security company that enables the modern workforce to connect securely and directly to all applications from wherever they work. Built on a containerized cloud architecture, iboss delivers security capabilities such as SWG, malware defense, RBI, CASB and data loss prevention to all connections via the cloud, instantaneously and at scale. This eliminates the need for traditional network security appliances, such as VPNs, firewalls and web gateway proxies, which …",
+        "title": "C++ Software Engineer - Remote",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 41.60495,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDMyOTk1NzE0OCIsInMiOiJVQjhWMEJ4MjdoR3d3Z0NVQlVoTDd3In0.-kSQYwaCgBcOyvCdfhgDKy-GWRfsA-ASU7VfjaF74q8",
+        "daysSincePosted": 35,
+        "status": "none"
+    },
+    {
+        "redirect_url": "https://www.adzuna.com/details/4375915993?utm_medium=api&utm_source=dba38e95",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Des Moines, Polk County",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "Des Moines"
+            ]
+        },
+        "salary_min": 69173.75,
+        "salary_is_predicted": "1",
+        "salary_max": 69173.75,
+        "contract_time": "full_time",
+        "id": "4375915993",
+        "longitude": -93.6151,
+        "category": {
+            "tag": "it-jobs",
+            "label": "IT Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2023-10-17T06:00:07Z",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Grinnell Mutual Reinsurance Company"
+        },
+        "title": "SOFTWARE ENGINEER - DATA MANAGEMENT",
+        "description": "Software Engineers are responsible for engineering software and/or complex integrations of existing software using current technologies to support the business objectives of Grinnell Mutual Reinsurance Company and their customers. Serves as a member of a cross functional Agile Software Development Team, completing any/all tasks to ensure team success. This position qualifies for our flexible workplace options. Work at our Grinnell, Iowa, headquarters or from a home office in any of the followin…",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDM3NTkxNTk5MyIsInMiOiJVQjhWMEJ4MjdoR3d3Z0NVQlVoTDd3In0.NsyxSaFefmSDcBEZvH6HfjZ1h_T1fABnlE5-gFa11Nk",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 41.589,
+        "daysSincePosted": 11,
+        "status": "none"
+    },
+    {
+        "created": "2023-10-14T15:01:35Z",
+        "salary_max": 124038.09,
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Intel"
+        },
+        "title": "Cloud Software Engineer/Architect",
+        "description": "Job Description Research/Architect/Design/Implement software structure, frameworks, protocols, and algorithms. Determines coding practices, development tools, and validation requirements. Performs pathfinding and surveys technologies. Interacts with multiple technologists in the company and within the industry as well as between developers and project managers to evaluate feasibility of requirements and determine priorities for development Qualifications Qualifications You must possess the belo…",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUI4VjBCeDI3aEd3d2dDVUJVaEw3dyIsImkiOiI0MzcxOTMzMjE2In0.Cmp7FTmNhOWWK1zDKWnyCz2sHDNeFr_7s2IqP1e4Gj4",
+        "latitude": 41.58345,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "1",
+        "redirect_url": "https://www.adzuna.com/details/4371933216?utm_medium=api&utm_source=dba38e95",
+        "salary_min": 124038.09,
+        "location": {
+            "display_name": "Des Moines, Polk County",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "Des Moines"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "longitude": -93.63911,
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT Jobs",
+            "tag": "it-jobs"
+        },
+        "id": "4371933216",
+        "daysSincePosted": 14,
+        "status": "none"
+    },
+    {
+        "salary_max": 104727.63,
+        "contract_type": "permanent",
+        "salary_min": 104727.63,
+        "redirect_url": "https://www.adzuna.com/details/4392655893?utm_medium=api&utm_source=dba38e95",
+        "salary_is_predicted": "1",
+        "location": {
+            "display_name": "Des Moines, Polk County",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "Des Moines"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Principal Financial Group"
+        },
+        "created": "2023-10-25T09:53:52Z",
+        "latitude": 41.589,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDM5MjY1NTg5MyIsInMiOiJVQjhWMEJ4MjdoR3d3Z0NVQlVoTDd3In0.PpvFgf598ute6V1A5z11kYKnqx5V8BDCFBqVYaxM55w",
+        "description": "What You'll Do We’re looking for a Sr Software Engineer on our Distribution Technology team, you’ll have the opportunity to drive the team forward by building our engineering design and concepts as they relate to existing applications and the Salesforce ecosystem. In this role, you’ll partner directly with technology teams and business partners to understand their needs and provide solutions. Learn and grow alongside your team. Pairing and mobbing is encouraged Execute against our cloud acceler…",
+        "title": "Sr Software Engineer I",
+        "longitude": -93.6151,
+        "id": "4392655893",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT Jobs"
+        },
+        "daysSincePosted": 3,
+        "status": "none"
+    },
+    {
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT Jobs"
+        },
+        "id": "4400176566",
+        "longitude": -93.63911,
+        "redirect_url": "https://www.adzuna.com/details/4400176566?utm_medium=api&utm_source=dba38e95",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "Des Moines"
+            ],
+            "display_name": "Des Moines, Polk County"
+        },
+        "salary_min": 113819.3,
+        "salary_is_predicted": "1",
+        "latitude": 41.58345,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUI4VjBCeDI3aEd3d2dDVUJVaEw3dyIsImkiOiI0NDAwMTc2NTY2In0.w5-BqoFEINTewVJF4jP5LW7VoOhZWLM7hFkcKeAcaAw",
+        "description": "What You'll Do We're looking for a Software Engineer to join our Plan Onboarding team in our Retirement and Income Solutions area. In this role, you'll create and maintain applications that support building and amending our clients plans. Our applications support internal users and provide data that serves as a foundation for many other consuming applications around us. We have a broad range of applications using multiple frameworks and architectures, including REST API's, pub/sub interactions,…",
+        "title": "Software Engineer - Java Focus",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Principal Financial Group"
+        },
+        "salary_max": 113819.3,
+        "created": "2023-10-28T15:07:21Z",
+        "daysSincePosted": 0,
+        "status": "none"
+    },
+    {
+        "description": "Job Description Collaborate with Chrome PnP team to debug and optimize power and performance as part of the larger effort to deliver excellent battery life while delivering acceptable performance. Qualifications This is an entry level position and will be compensated accordingly . You must possess the below minimum qualifications to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top …",
+        "title": "Power and Performance Software Engineer",
+        "latitude": 41.58345,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDMzOTkzNzgzOSIsInMiOiJVQjhWMEJ4MjdoR3d3Z0NVQlVoTDd3In0.Lj5IUVqMdQhhmgiCvIs25zm8xoMXeNQhez8gzD5-sIg",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Intel"
+        },
+        "salary_max": 118381.79,
+        "created": "2023-09-29T15:01:10Z",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "engineering-jobs",
+            "label": "Engineering Jobs"
+        },
+        "id": "4339937839",
+        "longitude": -93.63911,
+        "salary_is_predicted": "1",
+        "redirect_url": "https://www.adzuna.com/details/4339937839?utm_medium=api&utm_source=dba38e95",
+        "salary_min": 118381.79,
+        "location": {
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "Des Moines"
+            ],
+            "display_name": "Des Moines, Polk County",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "daysSincePosted": 29,
+        "status": "none"
+    },
+    {
+        "salary_max": 130378.41,
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.com/details/4272142998?utm_medium=api&utm_source=dba38e95",
+        "salary_is_predicted": "1",
+        "salary_min": 130378.41,
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Des Moines, Polk County",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "Des Moines"
+            ]
+        },
+        "title": "Real-Time Software Engineer",
+        "description": "The successful candidate will enjoy working in a fast paced, team-oriented environment, while working creatively in all phases of the software development life cycle Leads activities to develop, document and maintain architectures, requirements, algorithms, interfaces and designs for software systems Leads development of code and integration of complex software components into a fully functional software system Develops software verification plans, test procedures and test environments, executi…",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI3MjE0Mjk5OCIsInMiOiJVQjhWMEJ4MjdoR3d3Z0NVQlVoTDd3In0.HOLs9N3_rDOE78ExvcChLE18D0FgQSUFakOh0iiv4Mo",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 41.589,
+        "created": "2023-08-22T07:16:15Z",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "BOEING"
+        },
+        "id": "4272142998",
+        "category": {
+            "tag": "it-jobs",
+            "label": "IT Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": -93.6151,
+        "daysSincePosted": 67,
+        "status": "none"
+    },
+    {
+        "title": "Full Stack Digital Software Engineer",
+        "description": "SUMMARY We are seeking an experienced Software Engineer / Developer (full stack) to join our growing digital team at Pella Corporation. This is an exciting time as we look to build new digital products and experiences that deepen our engagement with B2B and B2C customers. This individual is self-motivated and enjoys problem-solving while eager to learn new things. The incumbent works closely with a group of other developers alongside the product and design teams. Come be a part of how we shape …",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDMyOTk1MTQxMiIsInMiOiJVQjhWMEJ4MjdoR3d3Z0NVQlVoTDd3In0.nE5VW3IN9LfhEvdSNhDzJRu59IcTRpjRUxG1Ojjj_wo",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 41.676121,
+        "created": "2023-09-23T13:09:04Z",
+        "salary_max": 86732.88,
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Pella Corporation"
+        },
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT Jobs"
+        },
+        "id": "4329951412",
+        "longitude": -93.723352,
+        "salary_min": 86732.88,
+        "redirect_url": "https://www.adzuna.com/details/4329951412?utm_medium=api&utm_source=dba38e95",
+        "salary_is_predicted": "1",
+        "location": {
+            "display_name": "Johnston, Polk County",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "Johnston"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "daysSincePosted": 35,
+        "status": "none"
+    },
+    {
+        "id": "4329951418",
+        "category": {
+            "tag": "it-jobs",
+            "label": "IT Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": -93.63194,
+        "salary_min": 90859.74,
+        "redirect_url": "https://www.adzuna.com/details/4329951418?utm_medium=api&utm_source=dba38e95",
+        "location": {
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "Des Moines"
+            ],
+            "display_name": "Des Moines, Polk County",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUI4VjBCeDI3aEd3d2dDVUJVaEw3dyIsImkiOiI0MzI5OTUxNDE4In0.imnjVu4T8YsgnQ3J2qPZB9sbnVy5i8An1eYjtXHwkAg",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 41.60495,
+        "title": "Full Stack Digital Software Engineer",
+        "description": "SUMMARY We are seeking an experienced Software Engineer / Developer (full stack) to join our growing digital team at Pella Corporation. This is an exciting time as we look to build new digital products and experiences that deepen our engagement with B2B and B2C customers. This individual is self-motivated and enjoys problem-solving while eager to learn new things. The incumbent works closely with a group of other developers alongside the product and design teams. Come be a part of how we shape …",
+        "created": "2023-09-23T13:09:04Z",
+        "salary_max": 90859.74,
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Pella Corporation"
+        },
+        "daysSincePosted": 35,
+        "status": "none"
+    },
+    {
+        "longitude": -93.60019,
+        "id": "4372839434",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT Jobs",
+            "tag": "it-jobs"
+        },
+        "created": "2023-10-15T08:00:49Z",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Keylent"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDM3MjgzOTQzNCIsInMiOiJVQjhWMEJ4MjdoR3d3Z0NVQlVoTDd3In0.0U-UwMpEJm2zRX2mQaydupJV1ldImt_T2VF046xjd-0",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 41.59295,
+        "title": "Sr. Software Engineer TECHM-JOB-24261",
+        "description": "Sr. Software Engineer TECHM-JOB-24261 Location: [DES MOINES] Skill: Dell EMC Backup admin Advanced Description Backup OEM Rubrik L3 (U3) [8 10 Y] (Hyderabad) Job Description ¿ Design, implement, manage and maintain Rubrik backup solutions. ¿ Configuring, Scheduling and taking manual backup for Various OS. ¿ Knowledge of basic networking principles including routing, subnet and firewalls. ¿ Knowledge of basics of VSS snapshot and VMware. ¿ Performing restores on demand. ¿ Performing Instant VM r…",
+        "redirect_url": "https://www.adzuna.com/details/4372839434?utm_medium=api&utm_source=dba38e95",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "South Des Moines"
+            ],
+            "display_name": "South Des Moines, Polk County"
+        },
+        "salary_min": 65168.23,
+        "salary_is_predicted": "1",
+        "contract_time": "full_time",
+        "salary_max": 65168.23,
+        "daysSincePosted": 13,
+        "status": "none"
+    },
+    {
+        "latitude": 41.589,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUI4VjBCeDI3aEd3d2dDVUJVaEw3dyIsImkiOiI0Mzg1NDkyOTY0In0.aFvn8OSRdgLo9esCyQTpCgpku5qSfKmbDT-ILeu7FFA",
+        "description": "What You'll Do We are looking for a Sr. Software Engineer to join our enterprise employer experience team. You’ll work with a team of other dedicated engineers in our fast-paced, flexible agile environment. Our ideal candidate will be responsible for supporting ongoing app development in AWS using primarily React, Typescript, and next.js. We are looking for a hands-on engineer who is comfortable wearing many hats to jump in and solve problems across our stack. As a member of the team, you will …",
+        "title": "Sr Software Engineer (Remote Option)",
+        "company": {
+            "display_name": "Principal Financial Group",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2023-10-21T09:50:36Z",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT Jobs"
+        },
+        "longitude": -93.6151,
+        "id": "4385492964",
+        "contract_type": "permanent",
+        "salary_max": 96455.88,
+        "redirect_url": "https://www.adzuna.com/details/4385492964?utm_medium=api&utm_source=dba38e95",
+        "salary_min": 96455.88,
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Des Moines, Polk County",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "Des Moines"
+            ]
+        },
+        "salary_is_predicted": "1",
+        "daysSincePosted": 7,
+        "status": "none"
+    },
+    {
+        "created": "2023-10-28T15:07:09Z",
+        "salary_max": 111463.38,
+        "company": {
+            "display_name": "Public Partnerships LLC",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "title": "Software Engineer 2 - Remote US",
+        "description": "Public Partnerships LLC supports individuals with disabilities or chronic illnesses and aging adults, to remain in their homes and communities and \"self\" direct their own long-term home care. Our role as the nation's largest and most experienced Financial Management Service provider is to assist those eligible Medicaid recipients to choose and pay for their own support workers and services within their state-approved personalized budget. We are appointed by states and managed healthcare organiz…",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUI4VjBCeDI3aEd3d2dDVUJVaEw3dyIsImkiOiI0NDAwMTc0NDYyIn0.hTiWq0wFDvbZgJWt8A9N2fTQzX1pgXGFiiCxJcDkoyQ",
+        "latitude": 41.58345,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/4400174462?utm_medium=api&utm_source=dba38e95",
+        "salary_is_predicted": "1",
+        "salary_min": 111463.38,
+        "location": {
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "Des Moines"
+            ],
+            "display_name": "Des Moines, Polk County",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "longitude": -93.63911,
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT Jobs"
+        },
+        "id": "4400174462",
+        "daysSincePosted": 0,
+        "status": "none"
+    },
+    {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUI4VjBCeDI3aEd3d2dDVUJVaEw3dyIsImkiOiI0MzgzODYxODQ3In0.of1Kf9_qkd4UqFsmBy1I4iOrpE8B8EF8R2Gm65jNwHY",
+        "latitude": 41.58345,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Sr. Software Engineer - Configuration Management",
+        "description": "Job Description Intel FST HW Architect team is looking for an engineer to help manage the daily flow of IP Hardware Architect Specification (HAS) development including IP baseline HAS, architecture feature config, fuse config HAS, RDL HAS and integration HAS, being developed across various document format, data repository conversion, feature configuration for multiple simultaneously on-going projects across the globe. This person will be responsible for maintaining the health of the HAS reposit…",
+        "created": "2023-10-20T15:20:00Z",
+        "company": {
+            "display_name": "Intel",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_max": 91072.46,
+        "id": "4383861847",
+        "category": {
+            "label": "Engineering Jobs",
+            "tag": "engineering-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": -93.63911,
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "Des Moines"
+            ],
+            "display_name": "Des Moines, Polk County"
+        },
+        "redirect_url": "https://www.adzuna.com/details/4383861847?utm_medium=api&utm_source=dba38e95",
+        "salary_min": 91072.46,
+        "salary_is_predicted": "1",
+        "daysSincePosted": 8,
+        "status": "none"
+    },
+    {
+        "description": "Job Number 23191320 Job Category Information Technology Location Marriott International HQ, 7750 Wisconsin Avenue, Bethesda, Maryland, United States Schedule Full-Time Located Remotely? Y Relocation? N Position Type Management JOB SUMMARY Provides Data Engineering leadership for Marriott's Modern Data Platform. Leads the implementation of new platform capabilities and enterprise data products. Responsible for the end to end delivery of multiple concurrent data initiatives, from initial inceptio…",
+        "title": "Director, Software Engineering - Data Platforms",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 41.58345,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDQwMDE3NDk0MiIsInMiOiJVQjhWMEJ4MjdoR3d3Z0NVQlVoTDd3In0.GLbZJgc1TD-2SZbBLMm3eFmHWteW8Mzx5dOOa2JqNCs",
+        "salary_max": 131676.95,
+        "company": {
+            "display_name": "Marriott",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2023-10-28T15:07:12Z",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT Jobs"
+        },
+        "id": "4400174942",
+        "longitude": -93.63911,
+        "salary_min": 131676.95,
+        "redirect_url": "https://www.adzuna.com/details/4400174942?utm_medium=api&utm_source=dba38e95",
+        "salary_is_predicted": "1",
+        "location": {
+            "display_name": "Des Moines, Polk County",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "Des Moines"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "daysSincePosted": 0,
+        "status": "none"
+    },
+    {
+        "redirect_url": "https://www.adzuna.com/details/4382056917?utm_medium=api&utm_source=dba38e95",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Johnston, Polk County",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "Johnston"
+            ]
+        },
+        "salary_min": 244255.86,
+        "salary_is_predicted": "1",
+        "id": "4382056917",
+        "category": {
+            "tag": "it-jobs",
+            "label": "IT Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": -93.705833,
+        "salary_max": 244255.86,
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Jobs for Humanity"
+        },
+        "created": "2023-10-19T18:49:46Z",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 41.671389,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDM4MjA1NjkxNyIsInMiOiJVQjhWMEJ4MjdoR3d3Z0NVQlVoTDd3In0.6tQ1fNv9ogZG2q-SLjD66gYxaTlVAs4qyVXC3y-u16g",
+        "description": "Job Description More information about this job:Overview: This is a US based position that is eligible for remote work. Candidate must be open to periodic travel to headquarters located in Johnston, RI dependent on business needs. Must be willing to work EST hours. FM Global is a leading property insurer of the world's largest businesses, providing more than one-third of FORTUNE 1000-size companies with engineering-based risk management and property insurance solutions. FM Global helps clients …",
+        "title": "Full Stack REACT Principal Software Engineer",
+        "daysSincePosted": 9,
+        "status": "none"
+    },
+    {
+        "id": "4380899839",
+        "category": {
+            "label": "IT Jobs",
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": -93.711111,
+        "redirect_url": "https://www.adzuna.com/details/4380899839?utm_medium=api&utm_source=dba38e95",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Windsor Heights, Polk County",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "Windsor Heights"
+            ]
+        },
+        "salary_min": 107688.59,
+        "salary_is_predicted": "1",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 41.577222,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDM4MDg5OTgzOSIsInMiOiJVQjhWMEJ4MjdoR3d3Z0NVQlVoTDd3In0.nfqSXYX_INOBXeWm3aStEwOzzRnZJzrtiqPcSkbAmSI",
+        "description": "About the Role We are looking for an SRE who enjoys and thrives on solving complex problems through innovation impacting change at scale. You will join an elite team of SREs driving technology's transformation by introducing enterprise capabilities and products, automating away complex issues , launching new platforms, building tools, , and integrate with the latest technology. Site Reliability Engineers leverage their experience as software and systems engineers to ensure applications are avai…",
+        "title": "Lead Software Engineer-Site Reliability Engineer",
+        "salary_max": 107688.59,
+        "company": {
+            "display_name": "Wells Fargo",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2023-10-19T05:40:06Z",
+        "daysSincePosted": 9,
+        "status": "none"
+    },
+    {
+        "category": {
+            "tag": "it-jobs",
+            "label": "IT Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "4335258225",
+        "longitude": -93.725893,
+        "redirect_url": "https://www.adzuna.com/details/4335258225?utm_medium=api&utm_source=dba38e95",
+        "salary_min": 70882.67,
+        "salary_is_predicted": "1",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "Urbandale"
+            ],
+            "display_name": "Urbandale, Polk County"
+        },
+        "description": "Berkley Technology Services (BTS) is the dynamic technology solution for W. R. Berkley Corporation, a Fortune 500 Commercial Lines Insurance Company. With key locations in Urbandale, IA and Wilmington, DE, BTS provides innovative and customer-focused IT solutions to the majority of WRBC’s 60 operating units across the globe. BTS’s wide reach ensures that ideas and opinions are considered at every level of the organization to guarantee we find the best solutions possible. Driven by a commitment …",
+        "title": "Software Development Engineer",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 41.633598,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUI4VjBCeDI3aEd3d2dDVUJVaEw3dyIsImkiOiI0MzM1MjU4MjI1In0.fvZE4jDZFDufMf00UEe9djQhC8gSG2N2oD-7MEV3wFc",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Berkley"
+        },
+        "salary_max": 70882.67,
+        "created": "2023-09-27T03:42:13Z",
+        "daysSincePosted": 32,
+        "status": "none"
+    },
+    {
+        "contract_time": "full_time",
+        "salary_max": 77949.6,
+        "redirect_url": "https://www.adzuna.com/details/4390782733?utm_medium=api&utm_source=dba38e95",
+        "salary_is_predicted": "1",
+        "salary_min": 77949.6,
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Urbandale, Polk County",
+            "area": [
+                "US",
+                "Iowa",
+                "Polk County",
+                "Urbandale"
+            ]
+        },
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Berkley"
+        },
+        "created": "2023-10-24T14:18:42Z",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 41.632963,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUI4VjBCeDI3aEd3d2dDVUJVaEw3dyIsImkiOiI0MzkwNzgyNzMzIn0.OIaCQiujw48WPBW8qXTA9wiW-tzlUPJo87OxbHEjcl0",
+        "description": "Company Details: Berkley Technology Services (BTS) is the dynamic technology solution for W. R. Berkley Corporation, a Fortune 500 Commercial Lines Insurance Company. With key locations in Urbandale, IA and Wilmington, DE, BTS provides innovative and customer-focused IT solutions to the majority of WRBCs 60 operating units across the globe. BTSs wide reach ensures that ideas and opinions are considered at every level of the organization to guarantee we find the best solutions possible. Driven b…",
+        "title": "Software Development Engineer",
+        "id": "4390782733",
+        "longitude": -93.737316,
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT Jobs"
+        },
+        "daysSincePosted": 4,
+        "status": "none"
+    }
+]
