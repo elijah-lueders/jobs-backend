@@ -35,10 +35,10 @@ async function fetchJobListings(what, where, what_exclude, results_per_page) {
         params: {
             app_id: 'dba38e95',
             app_key: 'ec37d1551a0543f500962f4deeeb9880',
-            results_per_page: results_per_page || '50',
+            results_per_page: results_per_page || '10',
             what: what || 'software engineer',
             where: where || 'des moines ia',
-            what_exclude: what_exclude || 'lead pricipal intern sr senior iii ii',
+            what_exclude: what_exclude || 'lead pricipal intern sr senior iii ii fbi',
             salary_include_unknown: '1',
 
         }
